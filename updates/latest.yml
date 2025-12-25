@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: wartune-1.0.0.exe
-    sha512: DNLrHCg90/dKtrK3x6LjpO0Vv/8tW0NNKN1nV1qIWdGRnl1+YXdqxThD8eAELRJZiv+/48cLeTxPsDCmj37ZwA==
-    size: 77810264
-path: wartune-1.0.0.exe
-sha512: DNLrHCg90/dKtrK3x6LjpO0Vv/8tW0NNKN1nV1qIWdGRnl1+YXdqxThD8eAELRJZiv+/48cLeTxPsDCmj37ZwA==
-releaseDate: '2025-12-25T10:20:06.284Z'
+  - url: wartune-1.0.1.exe
+    sha512: wclaeRBYzPU2Q89J1CldDez+HZh4yfeclu0rQjz06yvSddvdHVnbiVCeeI2YM7Fz5yoshMChaqHAJbyihfonWg==
+    size: 77810163
+path: wartune-1.0.1.exe
+sha512: wclaeRBYzPU2Q89J1CldDez+HZh4yfeclu0rQjz06yvSddvdHVnbiVCeeI2YM7Fz5yoshMChaqHAJbyihfonWg==
+releaseDate: '2025-12-25T10:24:53.896Z'
