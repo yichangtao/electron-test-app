@@ -1,14 +1,14 @@
 version: 1.0.0
 files:
   - url: wartune-1.0.0.exe
-    sha512: GTMB4dETacu7/KJU9vhJfllixBdhNBovFqi7NDu3pOqCWgTuUirbyJPVHS2GWpLfB5QSxkNBKQuc8ugGmzFV1Q==
+    sha512: PfNQWRZ/y5xUs1e+2LKLLn7E88AIvCLJBluNgcYmVD6KqUCacS71U8zZXYvLnzIBtUHSMlcJAalt8JEnfAmONw==
 path: wartune-1.0.0.exe
-sha512: GTMB4dETacu7/KJU9vhJfllixBdhNBovFqi7NDu3pOqCWgTuUirbyJPVHS2GWpLfB5QSxkNBKQuc8ugGmzFV1Q==
+sha512: PfNQWRZ/y5xUs1e+2LKLLn7E88AIvCLJBluNgcYmVD6KqUCacS71U8zZXYvLnzIBtUHSMlcJAalt8JEnfAmONw==
 packages:
   x64:
-    size: 77397992
-    sha512: tItAtWxwx6VT2X3bynQaEXQGwvrz7YvxJlr/ECfjHPbIdiGmimxSUFClGfUqkx9Qaq/oF7HbV/famquCZ7jhIg==
-    blockMapSize: 82231
+    size: 77397990
+    sha512: jdd1BZyXPXwJ4julMZtKgiSV5ZNtPZqVDll+FOKbX7fwphxwtMOPD9+IJDYyHbSlOLhmLLlHdpTsgImEC32LDw==
+    blockMapSize: 82229
     path: wartune-1.0.0-x64.nsis.7z
     file: wartune-1.0.0-x64.nsis.7z
-releaseDate: '2025-12-25T07:25:17.634Z'
+releaseDate: '2025-12-25T08:07:37.930Z'
